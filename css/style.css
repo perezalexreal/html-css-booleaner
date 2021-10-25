@@ -4,6 +4,9 @@ header {
     height: 130px;
 }
 
+h1 {
+    font-size: 42px;
+}
 .header-background {
     background-image: url(../img/pattern.png);
     background-size: 500px;
@@ -13,4 +16,49 @@ header {
     position: relative;
     margin-top: 70px;
     margin-left: 10px;
+}
+
+.write-from {
+    color: gray;
+}
+
+.autor {
+    color: lightskyblue;
+    font-weight: bold;
+}
+thead {
+    background: cornflowerblue;
+    color:white;
+}
+
+.odd-row {
+background: lightskyblue;
+}
+ß
+table {
+    border-collapse: collapse
+}
+
+.important {
+    background: yellow;
+}
+
+.background-1 {
+    background: url("../img/monitor.jpg") no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 180px;
+}
+
+.background-2 {
+    background: url("../img/graph.jpg") no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 180px;
+}
+
+.ad-title{
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
 }
