@@ -1,9 +1,16 @@
 header {
     background: cornflowerblue;
     width: 100%;
-    height: 150px;
+    height: 130px;
 }
 
 .header-background {
     background-image: url(../img/pattern.png);
+    background-size: 500px;
+}
+
+.logo {
+    position: relative;
+    margin-top: 70px;
+    margin-left: 10px;
 }
